@@ -1,0 +1,11 @@
+---
+label: Name
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Test
+  name: test
+  description: Hello
+  config:
+    required: false
